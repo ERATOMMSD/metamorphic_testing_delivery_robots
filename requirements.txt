@@ -1,0 +1,8 @@
+jmetalpy
+joblib
+multipledispatch
+numpy
+pandas
+pymoo
+scipy
+jupyter
