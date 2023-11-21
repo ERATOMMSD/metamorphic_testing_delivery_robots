@@ -7,7 +7,7 @@ A private simulator is needed to run this code. However, results from our experi
 
 
 ## People
-* Thomas Laurent https://scholar.google.com/citations?user=HAosqiEAAAAJ&hl=en
+* Thomas Laurent https://laurenttho3.github.io/
 * Paolo Arcaini http://group-mmm.org/~arcaini/
 * Xiao-Yi Zhang https://group-mmm.org/~xiaoyi/
 * Fuyuki Ishikawa http://research.nii.ac.jp/~f-ishikawa/en/
